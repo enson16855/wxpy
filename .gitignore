@@ -201,3 +201,5 @@ ENV/
 
 wxpy/main.py
 
+.vscode/launch.json
+.vscode/settings.json
